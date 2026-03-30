@@ -1,5 +1,3 @@
-# deep_north
-
 A new Flutter project.
 
 ## Getting Started
